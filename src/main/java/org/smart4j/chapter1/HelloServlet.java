@@ -11,7 +11,7 @@ import java.text.DateFormat;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-@WebServlet("/hello")
+@WebServlet("/helloo")
 public class HelloServlet extends HttpServlet {
 
     @Override
